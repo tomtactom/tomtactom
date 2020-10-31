@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 ### Hi, I'm Tom, a passionate self-taught web developer.
 - 🔭 I’m currently working on a weather station, a YouTube download plugin for Google Chrome and a web server management system.
 - 🌱 I’m currently learning dealing with KIs, JavaScript, Python (various libraries) and much more.
 - 👯 I’m looking to collaborate with [@lucagrosshennig](https://github.com/lucagrosshennig), designer, App developer and translatiors.
 - 🤔 I’m looking for help with App development (in particular with Python).
 - 💬 Ask me about Python, PHP, Apache, CSS, HTML, MySQL, PhpMyAdmin, Minecraft Server, Web Development, basic IP configuration, Python-Selenium, WebUntis and Flask.
-- 📫 How to reach me: [WhatsApp](http://wa.me/004915754088299/?text=Hallo+Tom%2C%0D%0AIch+habe+dein+Profil+auf+GitHub+gefunden+und+habe+eine+Frage.)
 
-### Connect with me:
+### 📫 Connect with me:
 
+[WhatsApp](http://wa.me/004915754088299/?text=Hallo+Tom%2C%0D%0AIch+habe+dein+Profil+auf+GitHub+gefunden+und+habe+eine+Frage.)
 [<img align="left" alt="tomtactom" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tomtactom | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -33,14 +31,7 @@
 <br />
 <br />
 
----
-
-
 <img align="left" alt="tomtactom's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tomtactom&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://tom-aschmann.de
 [twitter]: https://twitter.com/tomtactom
-
-
-
--->
