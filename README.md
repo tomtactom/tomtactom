@@ -31,7 +31,5 @@
 <br />
 <br />
 
-<img align="left" alt="tomtactom's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tomtactom&count_private=true&show_icons=true&hide_border=true" />
-
 [website]: https://tom-aschmann.de
 [twitter]: https://twitter.com/tomtactom
