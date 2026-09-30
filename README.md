@@ -2,8 +2,8 @@
 
 ### I'm Tom, a passionate self-taught web developer.
 - 🔭 I’m currently working on a weather station, a YouTube download plugin for Google Chrome and a web server management system.
-- 🌱 I’m currently learning dealing with KIs, JavaScript, Python (various libraries) and much more.
-- 👯 I’m looking to collaborate with [@lucagrosshennig](https://github.com/lucagrosshennig), designer, App developer and translatiors.
+- 🌱 I’m currently learning dealing with AIs, JavaScript, Python (various libraries) and much more.
+- 👯 I’m looking to collaborate with designer, App developer and translators.
 - 🤔 I’m looking for help with App development (in particular with Python).
 - 💬 Ask me about Python, PHP, Apache, CSS, HTML, MySQL, PhpMyAdmin, Minecraft Server, Web Development, basic IP configuration, Python-Selenium, WebUntis and Flask.
 
@@ -30,6 +30,3 @@
 <img align="left" alt="SVG" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/svg.png" />
 <br />
 <br />
-
-[website]: https://tom-aschmann.de
-[twitter]: https://twitter.com/tomtactom
